@@ -1,0 +1,10 @@
+,alpha,feature_num,error_mean,columns_name
+0,0.2,8,2.1410171508622895,"Index(['B07[C-C]', 'MLOGP2', 'B01[C-Cl]', 'B03[C-N]', 'B01[C-O]', 'piPC10',
+       'B02[C-O]', 'B02[C-Cl]', 'SpPosA_B(e)', 'SM4_B(p)'],
+      dtype='object')"
+1,0.198,8,2.304764763293616,"Index(['B07[C-C]', 'MLOGP2', 'B03[C-N]', 'piPC10', 'B01[C-O]', 'B01[C-Cl]',
+       'B05[C-Cl]', 'B03[C-O]', 'SpMax_B(e)', 'VE1_B(p)'],
+      dtype='object')"
+2,0.19602,10,1.800042719801411,"Index(['MLOGP2', 'B07[C-C]', 'B01[C-O]', 'B01[C-Cl]', 'B03[C-N]', 'B02[C-O]',
+       'piPC10', 'B02[C-Cl]', 'B04[C-Cl]', 'B05[C-Cl]'],
+      dtype='object')"

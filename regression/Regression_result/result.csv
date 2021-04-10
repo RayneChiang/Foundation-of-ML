@@ -1,0 +1,127 @@
+,learning_rate,feature_num,error_mean,columns_name
+0,0.2,68,0.47675361154570806,"Index(['MLOGP2', 'H-046', 'CATS2D_01_LL', 'TIC2', 'Vx', 'T(Cl..Cl)', 'TIC0',
+       'CSI', 'RDSQ', 'P_VSA_LogP_3'],
+      dtype='object')"
+1,0.22000000000000003,63,0.5184656918660269,"Index(['MLOGP2', 'H-046', 'CATS2D_02_LL', 'Vx', 'TIC2', 'CSI', 'ZM2Kup',
+       'P_VSA_e_2', 'T(Cl..Cl)', 'P_VSA_LogP_3'],
+      dtype='object')"
+2,0.24200000000000005,60,0.4608976781551912,"Index(['MLOGP2', 'H-046', 'CATS2D_02_LL', 'TIC2', 'Vx', 'CSI', 'P_VSA_e_2',
+       'T(Cl..Cl)', 'P_VSA_LogP_3', 'P_VSA_LogP_7'],
+      dtype='object')"
+3,0.26620000000000005,47,0.5533028984266911,"Index(['MLOGP2', 'H-046', 'TIC2', 'CATS2D_02_LL', 'Vx', 'T(Cl..Cl)', 'CSI',
+       'P_VSA_v_3', 'P_VSA_e_2', 'P_VSA_LogP_3'],
+      dtype='object')"
+4,0.2928200000000001,51,0.42669399565426813,"Index(['MLOGP2', 'H-046', 'CATS2D_02_LL', 'TIC2', 'Vx', 'T(Cl..Cl)', 'CSI',
+       'P_VSA_e_2', 'P_VSA_LogP_3', 'P_VSA_LogP_4'],
+      dtype='object')"
+5,0.3221020000000001,48,0.47526007795778125,"Index(['MLOGP2', 'H-046', 'CATS2D_02_LL', 'TIC2', 'Vx', 'P_VSA_LogP_3', 'CSI',
+       'ALOGP2', 'P_VSA_v_3', 'T(Cl..Cl)'],
+      dtype='object')"
+6,0.35431220000000013,43,0.48911390274246247,"Index(['MLOGP2', 'CATS2D_02_LL', 'H-046', 'TIC2', 'Vx', 'CSI', 'P_VSA_LogP_3',
+       'P_VSA_v_3', 'P_VSA_e_2', 'T(Cl..Cl)'],
+      dtype='object')"
+7,0.3897434200000002,41,0.45679487893537213,"Index(['MLOGP2', 'H-046', 'TIC2', 'CATS2D_02_LL', 'Vx', 'T(Cl..Cl)', 'CSI',
+       'P_VSA_LogP_3', 'P_VSA_LogP_4', 'D/Dtr09'],
+      dtype='object')"
+8,0.4287177620000002,38,0.5822016742894204,"Index(['MLOGP2', 'H-046', 'TIC2', 'CATS2D_02_LL', 'Vx', 'P_VSA_e_2', 'CSI',
+       'ZM2Per', 'P_VSA_LogP_3', 'P_VSA_LogP_4'],
+      dtype='object')"
+9,0.47158953820000027,39,0.46875869430787415,"Index(['MLOGP2', 'CATS2D_02_LL', 'TIC2', 'H-046', 'Vx', 'CSI', 'P_VSA_LogP_3',
+       'P_VSA_e_2', 'P_VSA_LogP_4', 'D/Dtr09'],
+      dtype='object')"
+10,0.5187484920200003,40,0.5244274551915091,"Index(['MLOGP2', 'TIC2', 'CATS2D_02_LL', 'H-046', 'Vx', 'CSI', 'P_VSA_LogP_3',
+       'P_VSA_e_2', 'T(Cl..Cl)', 'D/Dtr09'],
+      dtype='object')"
+11,0.5706233412220003,37,0.530956219156362,"Index(['MLOGP2', 'CATS2D_02_LL', 'TIC2', 'Vx', 'CSI', 'P_VSA_LogP_3',
+       'P_VSA_LogP_4', 'P_VSA_v_3', 'T(Cl..Cl)', 'P_VSA_e_2'],
+      dtype='object')"
+12,0.6276856753442004,36,0.6153084600474277,"Index(['MLOGP2', 'TIC2', 'Vx', 'CATS2D_02_LL', 'CSI', 'P_VSA_LogP_3',
+       'T(Cl..Cl)', 'P_VSA_LogP_4', 'P_VSA_e_2', 'D/Dtr09'],
+      dtype='object')"
+13,0.6904542428786204,33,0.5515228690236084,"Index(['MLOGP2', 'TIC2', 'CATS2D_02_LL', 'Vx', 'P_VSA_LogP_3', 'CSI',
+       'P_VSA_LogP_4', 'P_VSA_e_2', 'P_VSA_v_3', 'ZM2Per'],
+      dtype='object')"
+14,0.7594996671664825,36,0.5385671585678087,"Index(['MLOGP2', 'TIC2', 'CATS2D_02_LL', 'Vx', 'CSI', 'P_VSA_LogP_3',
+       'P_VSA_LogP_4', 'P_VSA_v_3', 'P_VSA_e_2', 'ATSC6s'],
+      dtype='object')"
+15,0.8354496338831308,35,0.5498758034246313,"Index(['MLOGP2', 'TIC2', 'Vx', 'CSI', 'P_VSA_LogP_3', 'P_VSA_e_2', 'P_VSA_v_3',
+       'P_VSA_LogP_4', 'H_D/Dt', 'D/Dtr11'],
+      dtype='object')"
+16,0.9189945972714438,32,0.5156603202181435,"Index(['MLOGP2', 'TIC2', 'Vx', 'CSI', 'P_VSA_LogP_3', 'P_VSA_v_3',
+       'P_VSA_LogP_4', 'P_VSA_e_2', 'H_D/Dt', 'ATSC6s'],
+      dtype='object')"
+17,1.0108940569985883,31,0.5047878045647811,"Index(['MLOGP2', 'TIC2', 'Vx', 'CSI', 'P_VSA_LogP_3', 'P_VSA_v_3',
+       'P_VSA_LogP_4', 'H_D/Dt', 'P_VSA_e_2', 'ATSC6s'],
+      dtype='object')"
+18,1.111983462698447,32,0.5377901972970109,"Index(['MLOGP2', 'TIC2', 'Vx', 'CSI', 'P_VSA_LogP_3', 'P_VSA_v_3',
+       'P_VSA_LogP_4', 'H_D/Dt', 'P_VSA_e_2', 'ATSC6s'],
+      dtype='object')"
+19,1.2231818089682918,30,0.6161938243528052,"Index(['MLOGP2', 'TIC2', 'Vx', 'CSI', 'P_VSA_v_3', 'P_VSA_LogP_3',
+       'P_VSA_LogP_4', 'ATSC6s', 'SpAD_Dt', 'P_VSA_e_2'],
+      dtype='object')"
+20,1.345499989865121,30,0.6643261421985421,"Index(['MLOGP2', 'TIC2', 'Vx', 'CSI', 'P_VSA_v_3', 'P_VSA_p_2', 'H_D/Dt',
+       'P_VSA_e_2', 'P_VSA_LogP_8', 'Wi_Dz(v)'],
+      dtype='object')"
+21,1.4800499888516332,24,0.7685157822084567,"Index(['MLOGP2', 'TIC2', 'Vx', 'CSI', 'P_VSA_p_2', 'P_VSA_v_3', 'P_VSA_LogP_8',
+       'H_D/Dt', 'Wi_Dz(v)', 'P_VSA_MR_1'],
+      dtype='object')"
+22,1.6280549877367965,28,0.6540612097682481,"Index(['MLOGP2', 'TIC2', 'Vx', 'CSI', 'SAacc', 'P_VSA_v_3', 'H_D/Dt',
+       'P_VSA_p_2', 'P_VSA_LogP_3', 'P_VSA_LogP_8'],
+      dtype='object')"
+23,1.7908604865104762,23,0.6053837264051841,"Index(['MLOGP2', 'TIC2', 'Vx', 'P_VSA_p_2', 'CSI', 'H_D/Dt', 'P_VSA_v_3',
+       'P_VSA_LogP_8', 'Wi_Dz(v)', 'P_VSA_MR_1'],
+      dtype='object')"
+24,1.969946535161524,24,0.7393130490545075,"Index(['MLOGP2', 'TIC2', 'Vx', 'P_VSA_p_2', 'CSI', 'P_VSA_LogP_8', 'H_D/Dt',
+       'P_VSA_v_3', 'Wi_Dz(v)', 'ZM2Per'],
+      dtype='object')"
+25,2.1669411886776766,21,0.7088834809310801,"Index(['MLOGP2', 'TIC2', 'Vx', 'P_VSA_p_2', 'P_VSA_LogP_8', 'H_D/Dt',
+       'P_VSA_v_3', 'CSI', 'Wi_Dz(v)', 'Wi_Dt'],
+      dtype='object')"
+26,2.383635307545444,21,0.7358549708413568,"Index(['TIC2', 'Vx', 'MLOGP2', 'P_VSA_p_2', 'P_VSA_LogP_8', 'H_D/Dt',
+       'P_VSA_v_3', 'CSI', 'Wi_Dz(v)', 'Wi_Dt'],
+      dtype='object')"
+27,2.6219988382999886,19,0.7397259386502658,"Index(['TIC2', 'Vx', 'MLOGP2', 'P_VSA_p_2', 'P_VSA_v_3', 'P_VSA_LogP_8',
+       'H_D/Dt', 'CSI', 'Wi_Dz(v)', 'P_VSA_LogP_4'],
+      dtype='object')"
+28,2.8841987221299874,21,0.8112629956531289,"Index(['TIC2', 'Vx', 'P_VSA_p_2', 'P_VSA_LogP_8', 'P_VSA_v_3', 'H_D/Dt',
+       'Wi_Dz(v)', 'CSI', 'P_VSA_LogP_4', 'QW_L'],
+      dtype='object')"
+29,3.1726185943429863,19,0.8489749915299549,"Index(['Vx', 'TIC2', 'P_VSA_p_2', 'P_VSA_v_3', 'P_VSA_LogP_8', 'H_D/Dt',
+       'TIC1', 'Wi_Dz(v)', 'P_VSA_LogP_4', 'Wi_Dt'],
+      dtype='object')"
+30,3.489880453777285,17,0.9068475746366915,"Index(['Vx', 'P_VSA_p_2', 'TIC2', 'P_VSA_v_3', 'P_VSA_LogP_8', 'H_D/Dt',
+       'TIC1', 'Wi_Dz(v)', 'P_VSA_LogP_4', 'Wi_Dt'],
+      dtype='object')"
+31,3.8388684991550135,17,1.0973250056132156,"Index(['Vx', 'TIC2', 'P_VSA_p_2', 'P_VSA_LogP_8', 'P_VSA_v_3', 'H_D/Dt',
+       'P_VSA_p_3', 'Wi_Dz(v)', 'Wi_Dt', 'MW'],
+      dtype='object')"
+32,4.222755349070515,19,0.9862859638610042,"Index(['P_VSA_p_2', 'P_VSA_v_3', 'Vx', 'H_D/Dt', 'TIC2', 'P_VSA_LogP_8',
+       'Wi_Dz(v)', 'MW', 'P_VSA_p_3', 'P_VSA_LogP_4'],
+      dtype='object')"
+33,4.645030883977567,16,1.020412890069631,"Index(['P_VSA_p_2', 'P_VSA_v_3', 'Vx', 'P_VSA_LogP_8', 'H_D/Dt', 'TIC2',
+       'Wi_Dz(v)', 'Wi_Dt', 'P_VSA_LogP_4', 'MW'],
+      dtype='object')"
+34,5.109533972375323,13,1.0614330821953726,"Index(['P_VSA_v_3', 'P_VSA_p_2', 'Vx', 'H_D/Dt', 'P_VSA_LogP_8', 'Wi_Dz(v)',
+       'Wi_Dt', 'SMTI', 'P_VSA_LogP_4', 'P_VSA_MR_2'],
+      dtype='object')"
+35,5.620487369612856,13,0.9566430914470028,"Index(['P_VSA_v_3', 'P_VSA_p_2', 'Vx', 'H_D/Dt', 'P_VSA_LogP_8', 'Wi_Dz(v)',
+       'Wi_Dt', 'SMTI', 'P_VSA_LogP_4', 'Wi_Dz(p)'],
+      dtype='object')"
+36,6.182536106574141,13,1.0580732205473082,"Index(['P_VSA_v_3', 'P_VSA_p_2', 'Vx', 'H_D/Dt', 'P_VSA_LogP_8', 'Wi_Dz(v)',
+       'Wi_Dt', 'SMTI', 'MW', 'SMTIV'],
+      dtype='object')"
+37,6.800789717231556,13,1.138525157462419,"Index(['P_VSA_v_3', 'P_VSA_p_2', 'H_D/Dt', 'Vx', 'P_VSA_LogP_8', 'Wi_Dz(v)',
+       'MW', 'Wi_Dt', 'SMTI', 'Wi_Dz(p)'],
+      dtype='object')"
+38,7.480868688954711,13,1.2598313139895114,"Index(['P_VSA_v_3', 'P_VSA_p_2', 'P_VSA_p_3', 'Vx', 'P_VSA_LogP_8', 'H_D/Dt',
+       'Wi_Dz(p)', 'Wi_Dt', 'SMTI', 'IDMT'],
+      dtype='object')"
+39,8.228955557850183,12,1.0142260937307785,"Index(['P_VSA_v_3', 'P_VSA_p_2', 'H_D/Dt', 'Vx', 'SMTI', 'Wi_Dz(p)', 'Wi_Dt',
+       'P_VSA_LogP_8', 'P_VSA_LogP_4', 'IDMT'],
+      dtype='object')"
+40,9.051851113635202,11,1.3301143646717832,"Index(['P_VSA_v_3', 'P_VSA_p_2', 'H_D/Dt', 'Vx', 'P_VSA_LogP_8', 'SMTI',
+       'Wi_Dz(p)', 'IDMT', 'Wi_Dt', 'GMTIV'],
+      dtype='object')"
+41,9.957036224998722,10,1.2808357179449972,"Index(['P_VSA_v_3', 'P_VSA_p_2', 'H_D/Dt', 'SMTI', 'P_VSA_LogP_8', 'Vx',
+       'Wi_Dz(p)', 'IDMT', 'GMTIV', 'Wap'],
+      dtype='object')"
